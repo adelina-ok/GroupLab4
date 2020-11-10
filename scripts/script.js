@@ -10,7 +10,7 @@ function displayTaco()
 			
 function displayEnchilada() 
 {
-  document.getElementById("articleID").innerHTML = "<h1>Enchilada</h1><p>An enchilada is a corn tortilla rolled around a filling and covered with a savory sauce. Enchiladas can be filled with various ingredients,<img src=\"./images/enchilada.jpg\" alt=enchilada\"width:250px; height:auto;\"> including meats, cheese, beans, potatoes, vegetables or combinations. Sauces can also be used to cover enchiladas, including chili-based sauces, such as salsa roja, various moles, or cheese-based sauces, such as chile con queso. Originating in Mexico, enchiladas are a common dish in Mexican cuisine.</p>"
+  document.getElementById("articleID").innerHTML = "<h1>Enchilada</h1><p>An enchilada is a corn tortilla rolled around a filling and covered with a savory sauce. Enchiladas can be filled with various ingredients,<img src=\"./images/enchilada.jpg\" alt=enchilada style=\"width:250px; height:auto;\"> including meats, cheese, beans, potatoes, vegetables or combinations. Sauces can also be used to cover enchiladas, including chili-based sauces, such as salsa roja, various moles, or cheese-based sauces, such as chile con queso. Originating in Mexico, enchiladas are a common dish in Mexican cuisine.</p>"
 }
 	
 function displayTamal() 
